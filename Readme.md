@@ -1,7 +1,7 @@
 # Ledgered
 ![Ledgered (online-video-cutter com)](https://github.com/LeeAaron702/Ledgered/assets/112150883/b328c8b4-a1c0-4e21-8f7f-e787217e7cdb)
 
-Ledgered is a financial tracking application that provides an intuitive interface for tracking transactions, products, and key performance indicators (KPIs). This application is built with a robust technology stack known as MERN
+Ledgered is a financial tracking application that provides an intuitive interface for tracking transactions, products, and key performance indicators (KPIs). This application is built with a robust technology stack known as MERN: MongoDB, Express, React, and Node.
 
 ## Features
 Ledgered provides a range of features to support your financial tracking needs:
