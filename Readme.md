@@ -6,10 +6,10 @@ Ledgered is a financial tracking application that provides an intuitive interfac
 ## Features
 Ledgered provides a range of features to support your financial tracking needs:
 
--Transaction Tracking: Keep track of all your financial transactions in one place. Ledgered provides a comprehensive interface for recording and viewing transactions.
--Product Tracking: Manage your products with ease. Ledgered allows you to record product details and monitor their status over time.
--KPI Tracking: Stay on top of your financial health. With Ledgered, you can define and track key performance indicators that matter to your business or personal finance.
--Predictive Analytics: Ledgered comes with predictive analytics capabilities that allow you to forecast future trends based on past data (if applicable).
+- Transaction Tracking: Keep track of all your financial transactions in one place. Ledgered provides a comprehensive interface for recording and viewing transactions.
+- Product Tracking: Manage your products with ease. Ledgered allows you to record product details and monitor their status over time.
+- KPI Tracking: Stay on top of your financial health. With Ledgered, you can define and track key performance indicators that matter to your business or personal finance.
+- Predictive Analytics: Ledgered comes with predictive analytics capabilities that allow you to forecast future trends based on past data (if applicable).
 
 ## Directory Structure
 ### Frontend (/src)
